@@ -27,7 +27,7 @@ Automatic License Plate Recognition(ALPR)
 ### 사용한 프로그래밍 언어 및 라이브러리
 <img src="https://img.shields.io/badge/Python-yellow?style=flat"/> <img src="https://img.shields.io/badge/Yolov5-red?style=flat"/> <img src="https://img.shields.io/badge/cv2-blue?style=flat"/> <img src="https://img.shields.io/badge/easyOCR-lightgrey?style=flat"/> <img src="https://img.shields.io/badge/matplotlib-orange?style=flat"/>
 
----
+
 ### 데이터 정보 및 참고 사이트
  - **데이터**
    - Dataset : Korea Car Plate in roboflow.com(https://universe.roboflow.com/mmu-bkusm/-emfmu)
