@@ -1,7 +1,6 @@
 # Car Plate Detection and Recognition
-Automatic License Plate Recognition(ALPR)
+자동차 번호판 탐지 및 인식 - Automatic License Plate Recognition(ALPR)
 ---
-## 자동차 번호판 탐지 및 인식
 ### 설명
  - Computer Vision 과 Yolov5 모델을 학습하기 위한 목적으로, 자동차의 번호판을 탐지하고 번호를 인식하고 보여주기까지 진행하고자 함.
  - Roboflow 에서 제공되는 한국 자동차 데이터셋을 사용하였고, 데이터는 라벨링이 되어있는 상태.
